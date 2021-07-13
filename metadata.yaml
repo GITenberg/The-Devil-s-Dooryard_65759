@@ -1,11 +1,16 @@
 _repo: The-Devil-s-Dooryard_65759
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65759-h/images/cover.jpg
 creator:
   author:
     agent_name: Tuttle, Wilbur Coleman
     gutenberg_agent_id: '53490'
     url: http://www.gutenberg.org/2009/agents/53490
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65759#The-Devil-s-Dooryard
 gutenberg_issued: '2021-07-04'
 gutenberg_type: Text
 identifiers:
